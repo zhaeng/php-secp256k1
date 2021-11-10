@@ -1,7 +1,7 @@
 # php-secp256k1 [![Tests](https://github.com/kornrunner/php-secp256k1/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/kornrunner/php-secp256k1/actions/workflows/tests.yml) [![Coverage Status](https://coveralls.io/repos/github/kornrunner/php-secp256k1/badge.svg?branch=master)](https://coveralls.io/github/kornrunner/php-secp256k1?branch=master) [![Latest Stable Version](https://poser.pugx.org/kornrunner/secp256k1/v/stable)](https://packagist.org/packages/kornrunner/secp256k1)
 
 ```lang=bash
-$ composer require kornrunner/secp256k1
+$ composer require zhaeng/secp256k1
 ```
 
 ## Usage
