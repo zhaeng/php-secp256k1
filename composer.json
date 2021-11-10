@@ -5,6 +5,7 @@
     "type": "library",
     "require": {
         "php": ">=7.3",
+        "ext-gmp": "*",
         "mdanter/ecc": "^1"
     },
     "require-dev": {
