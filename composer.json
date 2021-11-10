@@ -1,5 +1,5 @@
 {
-    "name": "kornrunner/secp256k1",
+    "name": "zhaeng/secp256k1",
     "description": "Pure PHP secp256k1",
     "keywords": ["secp256k1", "elliptic", "curve", "ecc"],
     "type": "library",
@@ -12,12 +12,12 @@
     },
     "autoload": {
         "psr-4": {
-            "kornrunner\\": "src/"
+            "zhaeng\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "kornrunner\\": "test"
+            "zhaeng\\": "test"
         }
     },
     "license": "MIT",
