@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace kornrunner\Serializer;
+namespace zhaeng\Serializer;
 
 use InvalidArgumentException;
 use Mdanter\Ecc\Crypto\Signature\Signature;

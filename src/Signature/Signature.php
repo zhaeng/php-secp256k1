@@ -1,10 +1,10 @@
 <?php declare(strict_types=1);
 
-namespace kornrunner\Signature;
+namespace zhaeng\Signature;
 
 use GMP;
-use kornrunner\Serializer\HexSignatureSerializer;
-use kornrunner\Signature\SignatureInterface;
+use zhaeng\Serializer\HexSignatureSerializer;
+use zhaeng\Signature\SignatureInterface;
 use Mdanter\Ecc\Crypto\Signature\Signature as EccSignature;
 
 class Signature extends EccSignature implements SignatureInterface

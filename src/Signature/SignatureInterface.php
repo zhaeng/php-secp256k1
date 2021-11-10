@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace kornrunner\Signature;
+namespace zhaeng\Signature;
 
 use Mdanter\Ecc\Crypto\Signature\SignatureInterface as EccSignatureInterface;
 

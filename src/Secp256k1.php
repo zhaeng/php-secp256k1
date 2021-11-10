@@ -1,10 +1,10 @@
 <?php declare(strict_types=1);
 
-namespace kornrunner;
+namespace zhaeng;
 
 use InvalidArgumentException;
-use kornrunner\Serializer\HexPrivateKeySerializer;
-use kornrunner\Signature\Signer;
+use zhaeng\Serializer\HexPrivateKeySerializer;
+use zhaeng\Signature\Signer;
 use Mdanter\Ecc\Crypto\Signature\SignatureInterface;
 use Mdanter\Ecc\Curves\CurveFactory;
 use Mdanter\Ecc\Curves\SecgCurve;
